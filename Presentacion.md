@@ -1,5 +1,5 @@
 # Presentación del Proyecto 
-**Autor:** [Tu Nombre] 
+**Autor:** YARA SHENOA BONILLA 
 ## Descripción 
 Este es el repositorio para la Tarea 1 del curso. El objetivo es 
 demostrar el flujo de trabajo básico con Git y GitHub. 
